@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsPerguntas" value="name:pk_id_pergunta;datatype:int,name:assunto_pergunta;datatype:string,name:pergunta;datatype:blob,name:fk_id_usu;datatype:int,name:pk_id_usu;datatype:int,name:nome_usu;datatype:string,name:email_usu;datatype:string,name:senha_usu;datatype:string,name:nivel_usu;datatype:int" />
+</info>
