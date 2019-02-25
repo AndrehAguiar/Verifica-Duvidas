@@ -1,0 +1,1 @@
+Pasta destinada para armazenamento dos arquivos de javaScript utilizados no site

@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+@media (min-height: 1224px){
+	#content {
+        width: 96.9% !important;
+	}
+    
+}
+@media (min-width: 1024px) and (max-width:1440px){
+	#header #identidade {
+    	float: right !important;
+	}
+	#content {
+        width: 76.9%;
+        padding: 0;
+	}
+	.col-3 {
+        width: 25%;
+        min-height:200px;
+	}
+	.col-3 h1 {
+        font-size: 150%;
+	}
+}
+@media (min-width: 851px) and (max-width:1023px){
+	#header{
+		height: auto;			
+	}
+	#header #link_form{
+		margin: 10px;
+		text-align: center;
+    	width: auto;
+	}
+	#form{	
+		min-width:250px;
+		float: right;
+	}
+	#header form input{
+		width: 150px;
+	}
+    #content{
+        width: 71.9%;
+        padding:0;
+    }
+	.col-3 {
+        width: 23.3%;
+        min-height:200px;
+        min-width:100px;
+	}
+	.col-3 h1 {
+        font-size: 120%;
+	}
+	.titulo a{
+		min-width: 80px;
+		font-size: 80%;
+	}
+	#header #identidade {
+		float: right;
+		margin: auto;
+	}
+}
+@media all and (max-width: 850px){
+	#content{
+		margin-left: 10px;
+		margin-right: 10px;
+        width:94%;
+	}
+	#header #identidade {
+		float: right;
+		margin: auto;
+	}
+	#cel:nth-of-type(1){
+		width: 16.8%;
+	}
+	#cel{
+		width: 19.8%;
+		min-width: auto;
+	}
+	#cel a{
+		font-size: 80%;
+		padding: 0;
+	}
+	.col-3{
+    	width: 35%;
+    	min-height:180px;
+	}
+	.col-3 h1 {
+        font-size: 110%;
+	}
+	.tab a{
+		width: 43%;
+	}
+	#nv_usuario{
+		width: 60%;
+	}
+	#login{
+		width: 30%;
+	}
+	#login input, #login div{
+		width: 100%;
+	}
+	#linha{
+		 font-size: 90%;
+	}
+}
+@media (max-width: 475px){	
+	#header #logo_topo {    
+	    width: 100%;
+        text-align: center;
+	}
+	#header img{
+    	margin: 10px;
+	}
+	#header #form{   
+		text-align: center;
+		margin: 0 auto;
+		padding-left: 5px;
+	}
+	#header form .botao {
+		width: 100%;
+		max-width: 100%;
+		margin-left: 5px;
+	}
+	#header #identidade {
+	    width:100%;
+	}
+	.col-3{
+    	width: 75%;
+	}
+	.tab a{
+		width: 43%;
+	}
+	#linha #cel{
+		font-size: 65%;
+    	min-width: 55px;
+	}
+	.erro_login{
+		flex-direction: column;
+	}
+	#login, #nv_usuario{
+		width: 80%;
+	}
+	.graficos{
+		margin-top: 0;
+		margin-left: -10%;
+	}
+}

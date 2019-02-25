@@ -1,0 +1,1 @@
+﻿<?php include(SETTINGS_PATH."init.php"); ?>
