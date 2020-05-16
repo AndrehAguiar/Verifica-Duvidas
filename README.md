@@ -1,5 +1,5 @@
 # Verifica-Duvidas
-## [VERIFICA DÚVIDAS ONLINE](topartes.esy.es)
+## [VERIFICA DÚVIDAS ONLINE](http://topartes.esy.es/)
 André Aguiar 1 ; André Baia 2 ; Bruno Lisboa 3 ; Igor Sardinha 4 ; Jethro Morais 5 ;
 Rander Madureira 6 ; Roberto Benedito 7<br/>
 Otaviano Silvério (Orientador)
@@ -69,4 +69,4 @@ esclareçam suas dúvidas, aproximando o estudo
 do universo virtual e melhorar a avaliação geral
 dos alunos na escola.
 
-Confira em: http://topartes.esy.es
+Confira em: http://topartes.esy.es/
